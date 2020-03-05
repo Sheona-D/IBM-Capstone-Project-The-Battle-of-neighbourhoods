@@ -14,6 +14,7 @@ This study will highlight the different regions affected globally, the number of
 The data used for this study has been taken from the links mentioned below. Furthermore, we will access data through FourSquare API interface and arrange them as a dataframe for visualization.  
 Links :-
 https://github.com/CSSEGISandData/COVID-19
+<br>
 https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset. 
 
 
