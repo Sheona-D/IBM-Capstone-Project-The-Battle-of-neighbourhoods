@@ -11,8 +11,8 @@
 This study will highlight the different regions affected globally, the number of people affected, deaths, people who have recovered and the common symptoms.The different visualisations will help us understand the spread of the disease, the estimated mortality rate and other statistics. This study aims to create awareness among the general public, which is of extreme importance in this situation and provides several useful insights into the data. This can also be used by researchers, students who are interested in the subject. 
 
 <h2>Data</h2>
-The data used for this study has been taken from the links mentioned below. Furthermore, we will access data through FourSquare API interface and arrange them as a dataframe for visualization.  
-Links :-
+The data used for this study has been taken from the links mentioned below. Furthermore, we will access data through FourSquare API interface and arrange them as a dataframe for visualization. One of the datasets consists of data from 22nd Jan, 2020 while the other consists of daily case reports of the number of confirmed, dead and recovered cases. The usage of data is explained in detail in the implementation section.   
+<br>Links :-
 https://github.com/CSSEGISandData/COVID-19
 <br>
 https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset
