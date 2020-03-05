@@ -1,3 +1,3 @@
 # IBM-Capstone-Project-The-Battle-of-neighbourhoods
 
-<b>Introduction</b>
+<b><h3>Introduction</h3></b>
