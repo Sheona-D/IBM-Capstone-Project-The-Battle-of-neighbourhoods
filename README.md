@@ -15,6 +15,6 @@ The data used for this study has been taken from the links mentioned below. Furt
 Links :-
 https://github.com/CSSEGISandData/COVID-19
 <br>
-https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset. 
+https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset
 
 
