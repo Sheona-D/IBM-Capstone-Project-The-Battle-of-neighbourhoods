@@ -11,8 +11,9 @@
 This study will highlight the different regions affected globally, the number of people affected, deaths, people who have recovered and the common symptoms.The different visualisations will help us understand the spread of the disease, the estimated mortality rate and other statistics. This study aims to create awareness among the general public, which is of extreme importance in this situation and provides several useful insights into the data. This can also be used by researchers, students who are interested in the subject. 
 
 <h2>Data</h2>
-This is the data repository for the 2019 Novel Coronavirus Visual Dashboard operated by the Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE). Also, Supported by ESRI Living Atlas Team and the Johns Hopkins University Applied Physics Lab (JHU APL).
-
-These numbers are as of February 15, 2020 and are taken from WHO’s situation reports, the National Health Commission (NHC) of the People’s Republic of China, and the Health Commission of Hubei Province, China. Links are provided at the bottom.
+The data used for this study has been taken from the links mentioned below. Furthermore, we will access data through FourSquare API interface and arrange them as a dataframe for visualization.  
+Links :-
+https://github.com/CSSEGISandData/COVID-19
+https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset. 
 
 
