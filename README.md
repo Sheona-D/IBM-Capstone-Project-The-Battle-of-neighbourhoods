@@ -19,9 +19,9 @@ https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset
 
 <h2>Methodology</h2>
 This section will describe the main components of our Study. The steps are as follows:-
-
-Collect covid-19 related data from https://github.com/CSSEGISandData/COVID-19 and https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset
-Explore, understand the data, data preprocessing
-Using FourSquare API we will find all location related information
-Visualize and Analyse using folium library(python) and plotly
-
+<ol>
+<li>Collect covid-19 related data from https://github.com/CSSEGISandData/COVID-19 and https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset
+<li>Explore, understand the data, data preprocessing
+<li>Using FourSquare API we will find all location related information
+<li>Visualize and Analyse using folium library(python) and plotly
+</ol>
